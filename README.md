@@ -22,7 +22,7 @@ To install Deface-Maker 2.0, follow these steps:
 For Windows users, an executable (`.exe`) file is available at [GPA calculator.exe](https://github.com/brownspy1/GPA_calculator/blob/main/GPA_calculator.exe)
 
 ## Screenshot
-![image](https://github.com/brownspy1/GPA_calculator/Screenshot.png)
+![image](https://github.com/brownspy1/GPA_calculator/blob/main/Screenshot.png)
 
 ## Credits
 
