@@ -11,12 +11,12 @@ To install Deface-Maker 2.0, follow these steps:
 
 5. Install Git:` pkg install git `
 
-6. Clone the Deface-Maker 2.0 repository:` git clone https://github.com/brownspy1/GPA_Calculator.git`
+6. Clone the Deface-Maker 2.0 repository:` git clone https://github.com/brownspy1/GGPA_calculator.git`
 
 7. Navigate to the `GPA_Calculator` directory: `cd GPA_Calculator`
 
-8. Run the Deface-Maker tool:` python GPA_Calculator.py`
+8. Run the Deface-Maker tool:` python GPA_calculator.py`
 
 ## Windows
 
-For Windows users, an executable (`.exe`) file is available at [GPA calculator.exe](https://github.com/brownspy1/GPA_calculator/blob/main/GPA_Calculator.exe)
+For Windows users, an executable (`.exe`) file is available at [GPA calculator.exe](https://github.com/brownspy1/GPA_calculator/blob/main/GPA_calculator.exe)
